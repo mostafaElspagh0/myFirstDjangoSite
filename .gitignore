@@ -1,4 +1,0 @@
-.gitignore
-db.sqlite3
-__pycache__
-__pycache__/urls.cpython-37.pyc
